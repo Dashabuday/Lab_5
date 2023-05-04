@@ -1,0 +1,1 @@
+{"Collection":[{"CreationDate":"2023-04-10","Coordinates":{"X":1,"Y":1},"VehicleType":"BICYCLE","EnginePower":222,"Id":0,"FuelType":"PLASMA","Name":"Moto"},{"CreationDate":"2023-04-10","Coordinates":{"X":1000,"Y":1234},"VehicleType":"BOAT","EnginePower":12345,"Id":1,"FuelType":"GASOLINE","Name":"qwe"}]}
